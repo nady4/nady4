@@ -2,7 +2,7 @@
   <div class="header">
     <div class="text" align="center">
       <h1>
-        <img src="https://github.com/ny4ndya/ny4ndya/blob/main/logo.svg" width="70px">
+        <img src="https://github.com/ny4ndya/ny4ndya/blob/main/pic.svg" width="70px">
       </h1>
       <p>Hi! my name is Nadya 👋</p>
       <p>I build web apps, landing pages, REST APIs, bots and more with a stack of modern technologies and clean code.</p>
@@ -15,7 +15,9 @@
     </div>
     <br></br>
     <div class="text">
-      <h2 align="center">My stack</h2>
+      <h2 align="center">
+        <img src="https://github.com/ny4ndya/ny4ndya/blob/main/logo.svg" width="70px">
+      </h2>
       <br>
       <p align="center">📱 Frontend: HTML5, CSS3, SASS, Figma, React, Router, GraphQL</p>
       <p align="center">🖥️ Backend: Node.js, Express, REST APIs, JWT Authentication, ORMs</p>
