@@ -7,7 +7,7 @@
       <p>Hi! my name is Nadya 👋</p>
       <p>I build web apps, landing pages, REST APIs, bots and more with a stack of modern technologies and clean code.</p>
       <br>
-      <p align="center">💼  You can see my portfolio at <a href="https://nadya.bio/">nadiajerochim.com</a>
+      <p align="center">💼  You can see my portfolio at <a href="https://nadya.bio/">nadya.bio</a>
       <p align="center">✉️  Mail me at <a href="mailto:nadiajerochim@gmail.com/">nadiajerochim@gmail.com</a></p>
       <a href="https://www.linkedin.com/in/nadiajerochim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
       <br></br>
