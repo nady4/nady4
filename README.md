@@ -11,6 +11,7 @@
       <p align="center">📩  And mail me at <a href="mailto:nadiajerochim@gmail.com">nadiajerochim@gmail.com</a></p>
       <br></br>
       <hr>
+      <br></br>
       <img src="https://github.com/ny4ndya/ny4ndya/blob/main/logo.svg" width="80px">
       <br></br>
       <p align="justify">✔️ I create frontend and backend web applications using React, Node and Express.</p>
