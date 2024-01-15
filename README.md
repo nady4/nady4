@@ -15,9 +15,4 @@
       <p align="left">💾 Databases: MySQL, MongoDB, PostgreSQL</p>
       <p align="left">👥 Project Management: Git, UML, Trello, Scrum</p>
     </div>
-      <br></br>
-      <br></br>
-      <h2 align="center">
-        <img src="https://github.com/ny4ndya/ny4ndya/blob/main/gear.svg" width="50px">
-      </h2>
 </body>
