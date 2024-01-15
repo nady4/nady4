@@ -9,11 +9,11 @@
       <br>
       <p align="center">💼  You can see my portfolio at <a href="https://nadya.bio/">nadya.bio</a>
       <p align="center">✉️  Mail me at <a href="mailto:nadiajerochim@gmail.com/">nadiajerochim@gmail.com</a></p>
+      <br></br>
       <a href="https://www.linkedin.com/in/nadiajerochim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
       <br></br>
-      <br>
     </div>
-      <br></br>
+    <br></br>
     <div class="text">
       <h2 align="center">My stack</h2>
       <br>
@@ -22,9 +22,9 @@
       <p align="center">💾 Databases: MySQL, MongoDB, PostgreSQL</p>
       <p align="center">👥 Project Management: Git, UML, Trello, Scrum</p>
       <p align="center"> </p>
-      <br>
+      <br></br>
     </div>
   </div>
-  <br>
+  <br></br>
   <hr>
 </body>
