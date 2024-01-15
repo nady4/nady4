@@ -26,10 +26,10 @@
       <p align="justify">✔️ I work with agile methodologies and DevOps tools such as Gitlab.</p>
       <p align="justify">✔️ Fluent in English and participatory in team communication.</p>
       <br></br>
-      <p align="right">📱 Frontend: HTML5, CSS3, SASS, Figma, React, Router, GraphQL</p>
-      <p align="right">🖥️ Backend: Node.js, Express, REST APIs, JWT Authentication, ORMs</p>
+      <p align="right">📱 Frontend: HTML5, CSS3, SASS, React, GraphQL, TypeScript, Next.js</p>
+      <p align="right">🖥️ Backend: Node.js, Express, REST APIs, Authentication</p>
       <p align="right">💾 Databases: MySQL, MongoDB, PostgreSQL</p>
-      <p align="right">👥 Project Management: Git, UML, Trello, Scrum</p>
+      <p align="right">👥 Project Management: Git, UML, Trello, Figma, Scrum</p>
       <br></br>
       <hr>
       <img src="https://www.svgrepo.com/show/416649/cog-gear-settings.svg" width="120px">
