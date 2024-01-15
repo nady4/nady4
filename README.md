@@ -14,6 +14,7 @@
       <br></br>
       <img src="https://github.com/ny4ndya/ny4ndya/blob/main/logo.svg" width="80px">
       <br></br>
+      <br></br>
       <p align="justify">✔️ I create frontend and backend web applications using React, Node and Express.</p>
       <p align="justify">✔️ Development of REST APIs with a focus on scalability and security.</p>
       <p align="justify">✔️ Test development with React Testing Library, Jest and Cypress.</p>
