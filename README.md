@@ -2,7 +2,7 @@
   <div class="header">
     <div class="text" align="center">
       <h1>
-        <img src="/src/images/logo.png" width="27px">
+        <img src="https://github.com/ny4ndya/ny4ndya/blob/main/logo.svg" width="70px">
       </h1>
       <p>Hi! my name is Nadya 👋</p>
       <p>I build web apps, landing pages, REST APIs, bots and more with a stack of modern technologies and clean code.</p>
