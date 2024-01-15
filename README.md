@@ -25,8 +25,6 @@
       <p align="justify">✔️ I work with agile methodologies and DevOps tools such as Gitlab.</p>
       <p align="justify">✔️ Fluent in English and participatory in team communication.</p>
       <br></br>
-      <hr>
-      <br></br>
       <p align="right">📱 Frontend: HTML5, CSS3, SASS, Figma, React, Router, GraphQL</p>
       <p align="right">🖥️ Backend: Node.js, Express, REST APIs, JWT Authentication, ORMs</p>
       <p align="right">💾 Databases: MySQL, MongoDB, PostgreSQL</p>
