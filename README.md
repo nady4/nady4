@@ -11,7 +11,7 @@
       <p align="center">📩  And mail me at <a href="mailto:nadiajerochim@gmail.com">nadiajerochim@gmail.com</a></p>
       <br></br>
       <hr>
-      <img src="https://www.svgrepo.com/show/416649/cog-gear-settings.svg" width="150px">
+      <img src="https://github.com/ny4ndya/ny4ndya/blob/main/logo.svg" width="80px">
       <br></br>
       <p align="justify">✔️ I create frontend and backend web applications using React, Node and Express.</p>
       <p align="justify">✔️ Development of REST APIs with a focus on scalability and security.</p>
@@ -26,12 +26,12 @@
       <br></br>
       <hr>
       <br></br>
-      <img src="https://github.com/ny4ndya/ny4ndya/blob/main/logo.svg" width="80px">
+      <p align="right">📱 Frontend: HTML5, CSS3, SASS, Figma, React, Router, GraphQL</p>
+      <p align="right">🖥️ Backend: Node.js, Express, REST APIs, JWT Authentication, ORMs</p>
+      <p align="right">💾 Databases: MySQL, MongoDB, PostgreSQL</p>
+      <p align="right">👥 Project Management: Git, UML, Trello, Scrum</p>
       <br></br>
-      <p align="center">📱 Frontend: HTML5, CSS3, SASS, Figma, React, Router, GraphQL</p>
-      <p align="center">🖥️ Backend: Node.js, Express, REST APIs, JWT Authentication, ORMs</p>
-      <p align="center">💾 Databases: MySQL, MongoDB, PostgreSQL</p>
-      <p align="center">👥 Project Management: Git, UML, Trello, Scrum</p>
+      <img src="https://www.svgrepo.com/show/416649/cog-gear-settings.svg" width="130px">
       <br></br>
     </div>
 </body>
