@@ -11,8 +11,7 @@
       <p align="center">📩  And mail me at <a href="mailto:nadiajerochim@gmail.com">nadiajerochim@gmail.com</a></p>
       <br></br>
       <hr>
-      <br></br>
-      <img src="https://www.svgrepo.com/show/424664/gear-maintenance-service.svg" width="70px">
+      <img src="https://www.svgrepo.com/show/416649/cog-gear-settings.svg" width="150px">
       <br></br>
       <p align="justify">✔️ I create frontend and backend web applications using React, Node and Express.</p>
       <p align="justify">✔️ Development of REST APIs with a focus on scalability and security.</p>
