@@ -32,7 +32,6 @@
       <p align="right">👥 Project Management: Git, UML, Trello, Scrum</p>
       <br></br>
       <hr>
-      <img src="https://www.svgrepo.com/show/416649/cog-gear-settings.svg" width="130px">
-      <br></br>
+      <img src="https://www.svgrepo.com/show/416649/cog-gear-settings.svg" width="120px">
     </div>
 </body>
