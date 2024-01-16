@@ -8,7 +8,7 @@
       <a href="https://www.linkedin.com/in/nadiajerochim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="33px"/></a>
       <br></br>
       <p align="center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">  You can see my projects at <a href="https://nadya.bio/">nadya.bio</a> 
-      <p align="center">📩  And mail me at <a href="mailto:nadiajerochim@gmail.com">nadiajerochim@gmail.com</a></p>
+      <p align="center">📩  Mail me at <a href="mailto:nadiajerochim@gmail.com">nadiajerochim@gmail.com</a></p>
       <br></br>
       <hr>
       <br></br>
