@@ -3,7 +3,7 @@
     <div class="text" align="center">
       <img src="https://github.com/ny4ndya/ny4ndya/blob/main/pic.png" width="130px">
       <h1>Nadya Jerochim</h1>
-      <h3>💎 - Full Stack Web Developer - 💎</h3>
+      <h3>💎 - Full Stack Developer - 💎</h3>
       <br></br>
       <a href="https://www.linkedin.com/in/nadiajerochim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="33px"/></a>
       <br></br>
