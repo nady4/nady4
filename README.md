@@ -48,4 +48,4 @@
       <br></br>
       <hr>
       <a href="https://nadya.bio"><img src="https://www.svgrepo.com/show/416649/cog-gear-settings.svg" width="120px"></a>
-    </div>
+</div>
