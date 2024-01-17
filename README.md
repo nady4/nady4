@@ -1,13 +1,11 @@
-<body>
-  <div class="header">
-    <div class="text" align="center">
+<div class="text" align="center">
       <img src="https://github.com/ny4ndya/ny4ndya/blob/main/user.png" width="130px">
       <h1>Nadya Jerochim</h1>
       <h3>💎 - Full Stack Developer - 💎</h3>
       <br></br>
       <a href="https://www.linkedin.com/in/nadiajerochim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="33px"/></a>
       <br></br>
-      <p align="center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">  You can see my projects at <a href="https://nadya.bio/">nadya.bio</a> 
+      <p align="center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">  You can see my projects at <a href="https://nadya.bio/">nadya.bio</a></p>
       <p align="center">📩  Mail me at <a href="mailto:nadiajerochim@gmail.com">nadiajerochim@gmail.com</a></p>
       <br></br>
       <hr>
@@ -25,15 +23,15 @@
       <a href="https://nodejs.org/" title="Next.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nextjs.svg" alt="Next.js" height="30px"></a>
       <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" height="30px"></a>
       <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-4-1175139.png?f=webp&w=256" alt="MongoDB" height="35px"</a>
-      <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" alt="PostgreSQL" width="30px"</a>
+      <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" alt="PostgreSQL" height="30px"</a>
       <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" height="30px"></a>
       <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" height="30px"></a>
       <a href="https://eslint.org/" title="ESLint"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/eslint.svg" alt="ESLint" height="30px"></a>
       <a href="https://prettier.io/" title="Prettier"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/prettier.svg" alt="Prettier" height="30px"></a>
       <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" height="30px"></a>
       <a href="https://www.figma.com/" title="Figma"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="30px"></a>
-      <a href="https://www.postman.com/" title="Postman"><img src="https://github.com/get-icon/geticon/blob/master/icons/postman.svg" alt="Postman" width="42px" height="35px"></a>
-      <a href="https://testing-library.com/" title="Testing Library"><img src="https://testing-library.com/img/octopus-64x64.png" alt="Testing Library" width="42px" height="35px"></a>
+      <a href="https://www.postman.com/" title="Postman"><img src="https://github.com/get-icon/geticon/blob/master/icons/postman.svg" alt="Postman" height="35px"></a>
+      <a href="https://testing-library.com/" title="Testing Library"><img src="https://testing-library.com/img/octopus-64x64.png" alt="Testing Library" height="35px"></a>
       <a href="https://cypress.io/" title="Cypress"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/cypress.svg" alt="Cypress" height="35px"></a>
       </p>
       <br></br>
@@ -51,4 +49,3 @@
       <hr>
       <a href="https://nadya.bio"><img src="https://www.svgrepo.com/show/416649/cog-gear-settings.svg" width="120px"></a>
     </div>
-</body>
