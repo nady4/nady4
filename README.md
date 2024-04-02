@@ -44,6 +44,7 @@
       <a href="https://wallabyjs.com/" title="Wallaby"><img src="https://pbs.twimg.com/profile_images/555186333149188096/mF5zIbKA_400x400.png" alt="Wallaby" height="35px"></a>
       <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" height="35px"></a>
       <a href="https://notion.so/" title="Notion"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/100px-Notion-logo.svg.png" alt="Notion" height="35px"></a>
+      <a href="https://figma.com/" title="Figma"><img src="https://github.com/get-icon/geticon/blob/master/icons/figma.svg" alt="Figma" height="35px"></a>
       </p>
       <br></br>
       <p align="justify">✔️ I create frontend and backend web applications using TypeScript, React, Node.js, NestJS and Next.js.</p>
