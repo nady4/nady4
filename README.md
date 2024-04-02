@@ -1,5 +1,5 @@
 <div class="text" align="center">
-      <img src="https://github.com/ny4ndya/ny4ndya/blob/main/user.png" width="135px">
+      <img src="https://github.com/nady4/nady4/blob/main/user.png" width="135px">
       <h1>Nadya Jerochim</h1>
       <h3>💎 - Full Stack Developer - 💎</h3>
       <br></br>
@@ -10,7 +10,7 @@
       <br></br>
       <hr>
       <br></br>
-      <img src="https://github.com/ny4ndya/ny4ndya/blob/main/pc.svg" width="100px">
+      <img src="https://github.com/nady4/nady4/blob/main/pc.svg" width="100px">
       <br></br>
       <br></br>
       <p align="center">
