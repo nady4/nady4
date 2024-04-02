@@ -19,11 +19,11 @@
       <a href="https://tailwindcss.com/" title="Tailwind"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/tailwindcss-icon.svg" alt="Tailwind" width="35px"></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="35px"></a>
       <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/typescript-icon.svg" alt="Typescript" height="35px"></a>
+      <a href="https://www.angular.io/" title="Angular"><img src="https://github.com/get-icon/geticon/blob/master/icons/angular-icon.svg" alt="Angular" height="35px"></a>
       <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" height="35px"></a>
       <a href="https://www.reactrouter.com/" title="React Router"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react-router.svg" alt="React Router" height="35px"></a>
       <a href="https://www.reduxjs.org/" title="Redux"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/redux.svg" alt="Redux" height="35px"></a>
       <a href="https://www.graphql.org/" title="GraphQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/graphql.svg" alt="GraphQL" height="35px"></a>
-      <a href="https://www.angular.io/" title="Angular"><img src="https://github.com/get-icon/geticon/blob/master/icons/angular-icon.svg" alt="Angular" height="35px"></a>
       <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" height="35px"></a>
       <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" height="32px"></a>
       <a href="https://nodejs.org/" title="Next.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nextjs.svg" alt="Next.js" height="35px"></a>
