@@ -16,23 +16,31 @@
       <p align="center">
       <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" height="35px"></a>
       <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" height="35px"></a>
+      <a href="https://tailwindcss.com/" title="Tailwind"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/tailwind.svg" alt="Tailwind" height="35px"></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" height="30px"></a>
       <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/typescript-icon.svg" alt="Typescript" height="30px"></a>
       <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" height="30px"></a>
+      <a href="https://www.reduxjs.org/" title="Redux"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/redux.svg" alt="Redux" height="30px"></a>
+      <a href="https://www.graphql.org/" title="GraphQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/graphql.svg" alt="GraphQL" height="30px"></a>
+      <a href="https://www.reactnative.dev/" title="React Native"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/reactnative.svg" alt="React Native" height="30px"></a>
+      <a href="https://www.angular.io/" title="Angular"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/angular.svg" alt="Angular" height="30px"></a>
       <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" height="30px"></a>
+      <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" height="30px"></a>
+      <a href="https://deno.com/" title="Deno"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/deno.svg" alt="Deno" height="30px"></a>
+      <a href="https://nestjs.com/" title="NestJS"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nestjs.svg" alt="NestJS" height="35px"></a>
       <a href="https://nodejs.org/" title="Next.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nextjs.svg" alt="Next.js" height="30px"></a>
       <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" height="30px"></a>
       <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-4-1175139.png?f=webp&w=256" alt="MongoDB" height="35px"</a>
       <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" alt="PostgreSQL" height="30px"</a>
-      <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" height="30px"></a>
+      <a href="https://docker.com/" title="Docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker.svg" alt="Docker" height="35px"></a>
+      <a href="https://www.jest.io/" title="Jest"><img src="https://github.com/get-icon/geticon/blob/master/icons/jest.svg" alt="Jest" height="35px"></a>
+      <a href="https://testing-library.com/" title="Testing Library"><img src="https://testing-library.com/img/octopus-64x64.png" alt="Testing Library" height="35px"></a>
+      <a href="https://cypress.io/" title="Cypress"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/cypress.svg" alt="Cypress" height="35px"></a>
+      <a href="https://vitest.dev/" title="Vitest"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/vitest.svg" alt="Vitest" height="35px"></a>
       <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" height="30px"></a>
       <a href="https://eslint.org/" title="ESLint"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/eslint.svg" alt="ESLint" height="30px"></a>
       <a href="https://prettier.io/" title="Prettier"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/prettier.svg" alt="Prettier" height="30px"></a>
       <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" height="30px"></a>
-      <a href="https://www.figma.com/" title="Figma"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="30px"></a>
-      <a href="https://www.postman.com/" title="Postman"><img src="https://github.com/get-icon/geticon/blob/master/icons/postman.svg" alt="Postman" height="35px"></a>
-      <a href="https://testing-library.com/" title="Testing Library"><img src="https://testing-library.com/img/octopus-64x64.png" alt="Testing Library" height="35px"></a>
-      <a href="https://cypress.io/" title="Cypress"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/cypress.svg" alt="Cypress" height="35px"></a>
       </p>
       <br></br>
       <p align="justify">✔️ I create frontend and backend web applications using TypeScript, React, Node, Express and Next.js.</p>
