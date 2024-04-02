@@ -17,8 +17,8 @@
       <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" height="35px"></a>
       <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" height="35px"></a>
       <a href="https://tailwindcss.com/" title="Tailwind"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/tailwindcss-icon.svg" alt="Tailwind" height="30px"></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="35px"></a>
-      <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/typescript-icon.svg" alt="Typescript" height="30px"></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="30px"></a>
+      <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/typescript-icon.svg" alt="Typescript" height="35px"></a>
       <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" height="30px"></a>
       <a href="https://www.reactrouter.com/" title="React Router"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react-router.svg" alt="React Router" height="30px"></a>
       <a href="https://www.reduxjs.org/" title="Redux"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/redux.svg" alt="Redux" height="30px"></a>
