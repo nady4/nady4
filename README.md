@@ -25,14 +25,14 @@
       <a href="https://www.graphql.org/" title="GraphQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/graphql.svg" alt="GraphQL" height="35px"></a>
       <a href="https://www.angular.io/" title="Angular"><img src="https://github.com/get-icon/geticon/blob/master/icons/angular-icon.svg" alt="Angular" height="35px"></a>
       <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" height="35px"></a>
-      <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" height="35px"></a>
+      <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" height="32px"></a>
       <a href="https://nodejs.org/" title="Next.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nextjs.svg" alt="Next.js" height="35px"></a>
       <a href="https://deno.com/" title="Deno"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/deno.svg" alt="Deno" height="35px"></a>
       <a href="https://nestjs.com/" title="NestJS"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nestjs.svg" alt="NestJS" height="35px"></a>
       <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" height="35px"></a>
       <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-4-1175139.png?f=webp&w=256" alt="MongoDB" height="35px"</a>
       <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" alt="PostgreSQL" height="35px"</a>
-      <a href="https://docker.com/" title="Docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="Docker" height="35px"></a>
+      <a href="https://docker.com/" title="Docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="Docker" height="32px"></a>
       <a href="https://www.jest.io/" title="Jest"><img src="https://github.com/get-icon/geticon/blob/master/icons/jest.svg" alt="Jest" height="35px"></a>
       <a href="https://testing-library.com/" title="Testing Library"><img src="https://testing-library.com/img/octopus-64x64.png" alt="Testing Library" height="35px"></a>
       <a href="https://cypress.io/" title="Cypress"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/cypress.svg" alt="Cypress" height="35px"></a>
