@@ -10,9 +10,6 @@
       <br></br>
       <hr>
       <br></br>
-      <img src="https://github.com/nady4/nady4/blob/main/pc.svg" width="100px">
-      <br></br>
-      <br></br>
       <p align="center">
       <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" height="40px"></a>
       <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" height="40px"></a>
