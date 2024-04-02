@@ -32,7 +32,7 @@
       <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" height="30px"></a>
       <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-4-1175139.png?f=webp&w=256" alt="MongoDB" height="35px"</a>
       <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" alt="PostgreSQL" height="35px"</a>
-      <a href="https://docker.com/" title="Docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker.svg" alt="Docker" height="35px"></a>
+      <a href="https://docker.com/" title="Docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="Docker" height="35px"></a>
       <a href="https://www.jest.io/" title="Jest"><img src="https://github.com/get-icon/geticon/blob/master/icons/jest.svg" alt="Jest" height="35px"></a>
       <a href="https://testing-library.com/" title="Testing Library"><img src="https://testing-library.com/img/octopus-64x64.png" alt="Testing Library" height="35px"></a>
       <a href="https://cypress.io/" title="Cypress"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/cypress.svg" alt="Cypress" height="35px"></a>
