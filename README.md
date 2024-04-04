@@ -14,7 +14,6 @@
       <a href="https://tailwindcss.com/" title="Tailwind"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/tailwindcss-icon.svg" alt="Tailwind" width="40px"></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="35px"></a>
       <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/typescript-icon.svg" alt="Typescript" height="35px"></a>
-      <a href="https://www.angular.io/" title="Angular"><img src="https://github.com/get-icon/geticon/blob/master/icons/angular-icon.svg" alt="Angular" height="35px"></a>
       <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" height="35px"></a>
       <a href="https://www.reactrouter.com/" title="React Router"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react-router.svg" alt="React Router" height="35px"></a>
       <a href="https://www.reduxjs.org/" title="Redux"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/redux.svg" alt="Redux" height="35px"></a>
@@ -42,7 +41,7 @@
       <a href="https://figma.com/" title="Figma"><img src="https://github.com/get-icon/geticon/blob/master/icons/figma.svg" alt="Figma" height="35px"></a>
       </p>
       <br></br>
-      <p align="justify">✔️ I design and develop frontend applications using TypeScript, Angular, React, Redux and GraphQL.</p>
+      <p align="justify">✔️ I design and develop frontend applications using TypeScript, React, Redux and GraphQL.</p>
       <p align="justify">✔️ I create and mantain backend servers using Node.js, NestJS and Next.js with a focus on scalability and security.</p>
       <p align="justify">✔️ I design and manage both NoSQL and SQL databases (PostgreSQL, MySQL and MongoDB).</p>
       <p align="justify">✔️ Test development with Jest, Cypress, Vitest and React Testing Library.</p>
