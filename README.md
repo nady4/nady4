@@ -43,10 +43,10 @@
       </p>
       <br></br>
       <p align="justify">✔️ I design and develop frontend applications using TypeScript, Angular, React, Redux and GraphQL.</p>
-      <p align="justify">✔️ I create and mantain backend applications using Node.js, NestJS and Next.js with a focus on scalability and security.</p>
-      <p align="justify">✔️ Test development with Jest, Cypress and React Testing Library.</p>
+      <p align="justify">✔️ I create and mantain backend servers using Node.js, NestJS and Next.js with a focus on scalability and security.</p>
+      <p align="justify">✔️ I design and manage both NoSQL and SQL databases (PostgreSQL, MySQL and MongoDB).</p>
+      <p align="justify">✔️ Test development with Jest, Cypress, Vitest and React Testing Library.</p>
       <p align="justify">✔️ Skill in web design and responsive application development.</p>
-      <p align="justify">✔️ Competence in both NoSQL and SQL databases (PostgreSQL, MySQL and MongoDB).</p>
       <p align="justify">✔️ Knowledge of design patterns and good development practices.</p>
       <p align="justify">✔️ Proficiency in object-oriented programming (OOP) and the use of data structures.</p>
       <p align="justify">✔️ Using Git for project management and team collaboration.</p>
