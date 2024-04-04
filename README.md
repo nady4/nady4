@@ -27,6 +27,7 @@
       <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-4-1175139.png" alt="MongoDB" height="37px"</a>
       <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/blob/master/icons/postgresql.svg" alt="PostgreSQL" height="37px"</a>
       <a href="https://docker.com/" title="Docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="Docker" height="32px"></a>
+      <a href="https://webpack.js.org/" title="Webpack"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/webpack.svg" alt="Webpack" height="35px"></a>
       <a href="https://www.jest.io/" title="Jest"><img src="https://github.com/get-icon/geticon/blob/master/icons/jest.svg" alt="Jest" height="35px"></a>
       <a href="https://testing-library.com/" title="Testing Library"><img src="https://testing-library.com/img/octopus-64x64.png" alt="Testing Library" height="37px"></a>
       <a href="https://cypress.io/" title="Cypress"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/cypress.svg" alt="Cypress" height="37px"></a>
@@ -45,11 +46,10 @@
       <p align="justify">✔️ I create and mantain backend servers using Node.js, NestJS and Next.js with a focus on scalability and security.</p>
       <p align="justify">✔️ I design and manage both NoSQL and SQL databases (PostgreSQL, MySQL and MongoDB).</p>
       <p align="justify">✔️ Test development with Jest, Cypress, Vitest and React Testing Library.</p>
-      <p align="justify">✔️ Skill in web design and responsive application development.</p>
-      <p align="justify">✔️ Knowledge of design patterns and good development practices.</p>
-      <p align="justify">✔️ Proficiency in object-oriented programming (OOP) and the use of data structures.</p>
+      <p align="justify">✔️ I optimize builds and deployment workflows using Webpack and Docker, ensuring deployment across different environments.</p>
+      <p align="justify">✔️ Skills in web design and responsive application development.</p>
+      <p align="justify">✔️ I work with DevOps tools and agile methodologies.</p>
       <p align="justify">✔️ Using Git for project management and team collaboration.</p>
-      <p align="justify">✔️ I work with agile methodologies and DevOps tools.</p>
       <p align="justify">✔️ Fluent in English and participatory in team communication.</p>
       <br></br>
       <hr>
