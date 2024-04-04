@@ -42,8 +42,8 @@
       <a href="https://figma.com/" title="Figma"><img src="https://github.com/get-icon/geticon/blob/master/icons/figma.svg" alt="Figma" height="35px"></a>
       </p>
       <br></br>
-      <p align="justify">✔️ I design and develop frontend applications using TypeScript, React, Redux and GraphQL.</p>
-      <p align="justify">✔️ I create and mantain backend servers using Node.js, NestJS and Next.js with a focus on scalability and security.</p>
+      <p align="justify">✔️ I design and develop frontend applications using TypeScript, React, Redux, GraphQL and Next.js.</p>
+      <p align="justify">✔️ I create and mantain backend servers using Node.js, GraphQL, NestJS and Next.js with a focus on scalability and security.</p>
       <p align="justify">✔️ I design and manage both NoSQL and SQL databases (PostgreSQL, MySQL and MongoDB).</p>
       <p align="justify">✔️ Test driven development with Jest, Cypress, Vitest and React Testing Library.</p>
       <p align="justify">✔️ I use Webpack and Docker to ensure deployment across different environments.</p>
