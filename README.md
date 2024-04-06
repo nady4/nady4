@@ -24,8 +24,8 @@
       <a href="https://deno.com/" title="Deno"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/deno.svg" alt="Deno" height="40px"></a>
       <a href="https://nestjs.com/" title="NestJS"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nestjs.svg" alt="NestJS" height="35px"></a>
       <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" height="35px"></a>
-      <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-4-1175139.png" alt="MongoDB" height="37px"</a>
-      <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/blob/master/icons/postgresql.svg" alt="PostgreSQL" height="37px"</a>
+      <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-4-1175139.png" alt="MongoDB" height="37px"></a>
+      <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/blob/master/icons/postgresql.svg" alt="PostgreSQL" height="37px"></a>
       <a href="https://docker.com/" title="Docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="Docker" height="32px"></a>
       <a href="https://webpack.js.org/" title="Webpack"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/webpack.svg" alt="Webpack" height="35px"></a>
       <a href="https://www.jest.io/" title="Jest"><img src="https://github.com/get-icon/geticon/blob/master/icons/jest.svg" alt="Jest" height="35px"></a>
