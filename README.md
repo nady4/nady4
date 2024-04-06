@@ -50,7 +50,6 @@
       <p align="justify">✔️ I use Webpack and Docker to ensure deployment across different environments.</p>
       <p align="justify">✔️ Skills in web design, UI/UX and responsive application development.</p>
       <p align="justify">✔️ I work with DevOps tools and agile methodologies.</p>
-      <p align="justify">✔️ Using Git for project management and team collaboration.</p>
       <p align="justify">✔️ Fluent in English and participatory in team communication.</p>
       <br></br>
       <hr>
