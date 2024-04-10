@@ -43,8 +43,8 @@
       <p align="justify">✔️ I design and develop frontend applications using TypeScript, React, Redux, GraphQL and Next.js.</p>
       <p align="justify">✔️ I create and mantain backend servers using Node.js, GraphQL, NestJS and Next.js with a focus on scalability and security.</p>
       <p align="justify">✔️ I design and manage both NoSQL and SQL databases (PostgreSQL, MySQL and MongoDB).</p>
-      <p align="justify">✔️ Test driven development with Jest, Cypress, Vitest and React Testing Library.</p>
       <p align="justify">✔️ I use Webpack and Docker to ensure deployment across different environments.</p>
+      <p align="justify">✔️ Test driven development with Jest, Cypress, Vitest and React Testing Library.</p>
       <p align="justify">✔️ Skills in web design, UI/UX and responsive application development.</p>
       <p align="justify">✔️ I work with DevOps tools and agile methodologies.</p>
       <p align="justify">✔️ Fluent in English and participatory in team communication.</p>
