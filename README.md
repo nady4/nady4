@@ -11,6 +11,7 @@
       <p align="center">
       <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" height="42px"></a>
       <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" height="42px"></a>
+      <a href="https://sass-lang.com/" title="SASS"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/sass.svg" alt="SASS" height="35px"></a>
       <a href="https://tailwindcss.com/" title="Tailwind"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/tailwindcss-icon.svg" alt="Tailwind" width="40px"></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="35px"></a>
       <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/typescript-icon.svg" alt="Typescript" height="35px"></a>
@@ -40,7 +41,7 @@
       <a href="https://wallabyjs.com/" title="Wallaby"><img src="https://pbs.twimg.com/profile_images/555186333149188096/mF5zIbKA_400x400.png" alt="Wallaby" height="35px"></a>
       </p>
       <br></br>
-      <p align="justify">✔️ I design and develop frontend applications using TypeScript, React, Redux, GraphQL and Next.js.</p>
+      <p align="justify">✔️ I design and develop frontend applications using Tailwind, SASS, TypeScript, React, Redux and Next.js.</p>
       <p align="justify">✔️ I create and mantain backend servers using Node.js, GraphQL, NestJS and Next.js with a focus on scalability and security.</p>
       <p align="justify">✔️ I design and manage both NoSQL and SQL databases (PostgreSQL, MySQL and MongoDB).</p>
       <p align="justify">✔️ I use Webpack and Docker to ensure deployment across different environments.</p>
