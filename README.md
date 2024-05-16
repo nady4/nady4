@@ -41,7 +41,7 @@
       <a href="https://wallabyjs.com/" title="Wallaby"><img src="https://pbs.twimg.com/profile_images/555186333149188096/mF5zIbKA_400x400.png" alt="Wallaby" height="35px"></a>
       </p>
       <br></br>
-      <p align="justify">✔️ I design and develop frontend applications using Tailwind, SASS, TypeScript, React, Redux and Next.js.</p>
+      <p align="justify">✔️ I design and develop frontend applications using React, TypeScript, Redux and Next.js.</p>
       <p align="justify">✔️ I create and mantain backend servers using Node.js, GraphQL, NestJS and Next.js with a focus on scalability and security.</p>
       <p align="justify">✔️ I design and manage both NoSQL and SQL databases (PostgreSQL, MySQL and MongoDB).</p>
       <p align="justify">✔️ I use Webpack and Docker to ensure deployment across different environments.</p>
