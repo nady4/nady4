@@ -3,7 +3,7 @@
       <h1>Nadya Jerochim</h1>
       <a href="https://www.linkedin.com/in/nady4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="33px"/></a>
       <h3>💎 - Full Stack Developer - 💎</h3>
-      <p align="center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">  You can see my projects at <a href="https://nadya.bio/">nadya.bio</a></p>
+      <p align="center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">  You can see my projects at <a href="https://nady4.com/">nady4.com</a></p>
       <p align="center">📩  Mail me at <a href="mailto:nadyajerochim@gmail.com">nadyajerochim@gmail.com</a></p>
       <br></br>
       <hr>
