@@ -2,11 +2,11 @@
       <img src="https://pbs.twimg.com/media/FTSdc3KUYAAyDK2.jpg" width="200px">
       <h1>Nadya Jerochim</h1>
       <a href="https://www.linkedin.com/in/nady4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="33px"/></a>
+      <br></br><br></br>
       <h2>💎 - Full Stack Developer - 💎</h2>
       <h3 align="center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">  You can see my projects at <a href="https://nady4.com/">nady4.com</a></h3>
       <h3 align="center">📩  Mail me at <a href="mailto:nadyajerochim@gmail.com">nadyajerochim@gmail.com</a></h3>
       <br></br>
-      <hr>
       <br></br>
       <p align="center">
       <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" height="42px"></a>
@@ -40,6 +40,7 @@
       <a href="https://prettier.io/" title="Prettier"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/prettier.svg" alt="Prettier" height="35px"></a>
       <a href="https://wallabyjs.com/" title="Wallaby"><img src="https://pbs.twimg.com/profile_images/555186333149188096/mF5zIbKA_400x400.png" alt="Wallaby" height="35px"></a>
       </p>
+      <br></br>
       <br></br>
       <p align="justify">✔️ I design and develop frontend applications using React, TypeScript, Redux and Next.js.</p>
       <p align="justify">✔️ I create and mantain backend servers using Node.js, GraphQL, NestJS and Next.js with a focus on scalability and security.</p>
