@@ -14,16 +14,16 @@
       <a href="https://sass-lang.com/" title="SASS"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/sass.svg" alt="SASS" height="35px"></a>
       <a href="https://tailwindcss.com/" title="Tailwind"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/tailwindcss-icon.svg" alt="Tailwind" width="40px"></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="35px"></a>
-      <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/typescript-icon.svg" alt="Typescript" height="35px"></a>
-      <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" height="35px"></a>
-      <a href="https://www.reactrouter.com/" title="React Router"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react-router.svg" alt="React Router" height="35px"></a>
+      <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/typescript-icon.svg" alt="Typescript" height="35px"></a>
+      <a href="https://reactjs.org/" title="React"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/react.svg" alt="React" height="35px"></a>
+      <a href="https://www.reactrouter.com/" title="React Router"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/react-router.svg" alt="React Router" height="35px"></a>
       <a href="https://www.reduxjs.org/" title="Redux"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/redux.svg" alt="Redux" height="35px"></a>
-      <a href="https://www.graphql.org/" title="GraphQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/graphql.svg" alt="GraphQL" height="37px"></a>
-      <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" height="37px"></a>
-      <a href="https://nodejs.org/" title="Next.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nextjs.svg" alt="Next.js" height="40px"></a>
+      <a href="https://www.graphql.org/" title="GraphQL"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/graphql.svg" alt="GraphQL" height="37px"></a>
+      <a href="https://nodejs.org/" title="Node.js"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/nodejs-icon.svg" alt="Node.js" height="37px"></a>
+      <a href="https://nodejs.org/" title="Next.js"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/nextjs.svg" alt="Next.js" height="40px"></a>
       <a href="https://deno.com/" title="Deno"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/deno.svg" alt="Deno" height="40px"></a>
       <a href="https://nestjs.com/" title="NestJS"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nestjs.svg" alt="NestJS" height="35px"></a>
-      <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" height="35px"></a>
+      <a href="https://dev.mysql.com/" title="MySQL"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/mysql.svg" alt="MySQL" height="35px"></a>
       <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-4-1175139.png" alt="MongoDB" height="37px"></a>
       <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/blob/master/icons/postgresql.svg" alt="PostgreSQL" height="37px"></a>
       <a href="https://docker.com/" title="Docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="Docker" height="32px"></a>
