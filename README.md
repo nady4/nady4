@@ -12,11 +12,9 @@
       <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" height="42px"></a>
       <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" height="42px"></a>
       <a href="https://sass-lang.com/" title="SASS"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/sass.svg" alt="SASS" height="35px"></a>
-      <a href="https://tailwindcss.com/" title="Tailwind"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/tailwindcss-icon.svg" alt="Tailwind" width="40px"></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="35px"></a>
       <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/typescript-icon.svg" alt="Typescript" height="35px"></a>
       <a href="https://reactjs.org/" title="React"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/react.svg" alt="React" height="35px"></a>
-      <a href="https://www.reactrouter.com/" title="React Router"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/react-router.svg" alt="React Router" height="35px"></a>
       <a href="https://www.reduxjs.org/" title="Redux"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/redux.svg" alt="Redux" height="35px"></a>
       <a href="https://www.graphql.org/" title="GraphQL"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/graphql.svg" alt="GraphQL" height="37px"></a>
       <a href="https://nodejs.org/" title="Node.js"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/nodejs-icon.svg" alt="Node.js" height="37px"></a>
@@ -35,10 +33,6 @@
       <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" height="37px"></a>
       <a href="https://figma.com/" title="Figma"><img src="https://github.com/get-icon/geticon/blob/master/icons/figma.svg" alt="Figma" height="35px"></a>
       <a href="https://notion.so/" title="Notion"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/100px-Notion-logo.svg.png" alt="Notion" height="35px"></a>
-      <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" height="35px"></a>
-      <a href="https://eslint.org/" title="ESLint"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/eslint.svg" alt="ESLint" height="35px"></a>
-      <a href="https://prettier.io/" title="Prettier"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/prettier.svg" alt="Prettier" height="35px"></a>
-      <a href="https://wallabyjs.com/" title="Wallaby"><img src="https://pbs.twimg.com/profile_images/555186333149188096/mF5zIbKA_400x400.png" alt="Wallaby" height="35px"></a>
       </p>
       <br></br>
       <br></br>
