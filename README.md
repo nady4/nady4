@@ -5,7 +5,7 @@
       <br></br>
       <h2>💎 - Full Stack Developer - 💎</h2>
       <h3 align="center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">  You can see my projects at <a href="https://nady4.com/">nady4.com</a></h3>
-      <h3 align="center">📩  Mail me at <a href="mailto:dev@nady4.com">dev@nady4.com</a></h3>
+      <h3 align="center">📩  Mail me at <a href="mailto:nadyajerochim@gmail.com">nadyajerochim@gmail.com</a></h3>
       <br></br>
       <br></br>
       <p align="center">
