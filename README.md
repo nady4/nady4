@@ -17,7 +17,6 @@
       <a href="https://reactjs.org/" title="React"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/react.svg" alt="React" height="35px"></a>
       <a href="https://tanstack.com/query/v3" title="React Query"><img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="React Query" height="36px"></a>
       <a href="https://www.reduxjs.org/" title="Redux"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/redux.svg" alt="Redux" height="35px"></a>
-      <a href="https://www.graphql.org/" title="GraphQL"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/graphql.svg" alt="GraphQL" height="37px"></a>
       <a href="https://nodejs.org/" title="Node.js"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/nodejs-icon.svg" alt="Node.js" height="37px"></a>
       <a href="https://nextjs.org/" title="Next.js"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" height="40px"></a>
       <a href="https://www.prisma.io/" title="Prisma"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/prisma.svg" alt="Prisma" height="37px"></a>
@@ -30,9 +29,6 @@
       <a href="https://cypress.io/" title="Cypress"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/cypress.svg" alt="Cypress" height="37px"></a>
       <a href="https://playwright.dev/" title="Playwright"><img src="https://pbs.twimg.com/profile_images/1318604600677527552/stk8sqYZ_400x400.png" alt="Playwirght" height="37px"></a>
       <a href="https://vitest.dev/" title="Vitest"><img src="https://vitest.dev/logo.svg" alt="Vitest" height="35px"></a>
-      <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" height="37px"></a>
-      <a href="https://figma.com/" title="Figma"><img src="https://github.com/get-icon/geticon/blob/master/icons/figma.svg" alt="Figma" height="35px"></a>
-      <a href="https://notion.so/" title="Notion"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/100px-Notion-logo.svg.png" alt="Notion" height="35px"></a>
       </p>
       <br></br>
       <br></br>
