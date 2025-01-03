@@ -19,7 +19,6 @@
       <a href="https://www.reduxjs.org/" title="Redux"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/redux.svg" alt="Redux" height="35px"></a>
       <a href="https://nodejs.org/" title="Node.js"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/nodejs-icon.svg" alt="Node.js" height="37px"></a>
       <a href="https://nextjs.org/" title="Next.js"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" height="40px"></a>
-      <a href="https://www.prisma.io/" title="Prisma"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/prisma.svg" alt="Prisma" height="37px"></a>
       <a href="https://dev.mysql.com/" title="MySQL"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/mysql.svg" alt="MySQL" height="35px"></a>
       <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-4-1175139.png" alt="MongoDB" height="37px"></a>
       <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/blob/master/icons/postgresql.svg" alt="PostgreSQL" height="37px"></a>
