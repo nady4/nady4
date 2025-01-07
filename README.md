@@ -23,11 +23,6 @@
       <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-4-1175139.png" alt="MongoDB" height="37px"></a>
       <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/blob/master/icons/postgresql.svg" alt="PostgreSQL" height="37px"></a>
       <a href="https://docker.com/" title="Docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="Docker" height="32px"></a>
-      <a href="https://webpack.js.org/" title="Webpack"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/webpack.svg" alt="Webpack" height="35px"></a>
-      <a href="https://www.jest.io/" title="Jest"><img src="https://github.com/get-icon/geticon/blob/master/icons/jest.svg" alt="Jest" height="35px"></a>
-      <a href="https://cypress.io/" title="Cypress"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/cypress.svg" alt="Cypress" height="37px"></a>
-      <a href="https://playwright.dev/" title="Playwright"><img src="https://pbs.twimg.com/profile_images/1318604600677527552/stk8sqYZ_400x400.png" alt="Playwirght" height="37px"></a>
-      <a href="https://vitest.dev/" title="Vitest"><img src="https://vitest.dev/logo.svg" alt="Vitest" height="35px"></a>
       </p>
       <br></br>
       <br></br>
