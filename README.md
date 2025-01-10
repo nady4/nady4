@@ -20,17 +20,20 @@
       <a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/graphql.svg" alt="GraphQL" height="35px"></a>
       <a href="https://nextjs.org/" title="Next.js"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" height="40px"></a>
       <a href="https://nodejs.org/" title="Node.js"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/nodejs-icon.svg" alt="Node.js" height="37px"></a>
+      <a href="https://www.nestjs.com/" title="NestJS"><img src="https://github.com/get-icon/geticon/blob/master/icons/nestjs.svg" alt="NestJS" height="37px"></a>
       <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-4-1175139.png" alt="MongoDB" height="37px"></a>
       <a href="https://dev.mysql.com/" title="MySQL"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/mysql.svg" alt="MySQL" height="35px"></a>
       <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/blob/master/icons/postgresql.svg" alt="PostgreSQL" height="37px"></a>
+      <a href="https://www.sqlite.org/" title="SQLite"><img src="https://anturis.com/wp-content/uploads/2022/09/SQLite-Logo-1.png" alt="SQLite" height="37px"></a>
+      <a href="https://www.redis.io/" title="Redis"><img src="https://github.com/get-icon/geticon/blob/master/icons/redis.svg" alt="Redis" height="37px"></a>
       <a href="https://docker.com/" title="Docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="Docker" height="32px"></a>
       </p>
       <br></br>
       <br></br>
-      <p align="justify">✔️ I design and develop frontend applications using React, TypeScript, TailwindCSS and Next.js.</p>
-      <p align="justify">✔️ I create and mantain backend servers using Node.js and Next.js with a focus on scalability and security.</p>
-      <p align="justify">✔️ I design and manage both NoSQL and SQL databases (PostgreSQL, MySQL and MongoDB).</p>
-      <p align="justify">✔️ Test driven development with Jest, Cypress, Vitest and PlayWright.</p>
+      <p align="justify">✔️ I design and develop frontend applications using TypeScript, TailwindCSS, React, Redux, GraphQL and Next.js.</p>
+      <p align="justify">✔️ I create and mantain backend servers using Node.js, NestJS and Next.js with a focus on scalability and security.</p>
+      <p align="justify">✔️ I design and manage both NoSQL and SQL databases (PostgreSQL, MySQL, SQLite, Redis and MongoDB).</p>
+      <p align="justify">✔️ Test driven development with Vitest, Jest, Testing Library, Cypress and PlayWright.</p>
       <p align="justify">✔️ I use Docker to ensure deployment across different environments.</p>
       <p align="justify">✔️ Skills in web design, UI/UX and responsive application development.</p>
       <p align="justify">✔️ Fluent in English and participatory in team communication.</p>
