@@ -15,9 +15,9 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="35px"></a>
       <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/typescript-icon.svg" alt="Typescript" height="35px"></a>
       <a href="https://reactjs.org/" title="React"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/react.svg" alt="React" height="35px"></a>
+      <a href="https://tanstack.com/query/v3" title="React Query"><img src="https://miro.medium.com/v2/resize:fit:1200/1*elhu-42TzQEdsFjKDbQhhA.png" alt="React Query" height="36px"></a>
       <a href="https://www.reduxjs.org/" title="Redux"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/redux.svg" alt="Redux" height="35px"></a>
       <a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/graphql.svg" alt="GraphQL" height="35px"></a>
-      <a href="https://tanstack.com/query/v3" title="React Query"><img src="https://miro.medium.com/v2/resize:fit:1200/1*elhu-42TzQEdsFjKDbQhhA.png" alt="React Query" height="36px"></a>
       <a href="https://nextjs.org/" title="Next.js"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" height="40px"></a>
       <a href="https://nodejs.org/" title="Node.js"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/nodejs-icon.svg" alt="Node.js" height="37px"></a>
       <a href="https://www.nestjs.com/" title="NestJS"><img src="https://github.com/get-icon/geticon/blob/master/icons/nestjs.svg" alt="NestJS" height="37px"></a>
