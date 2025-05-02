@@ -35,19 +35,4 @@
   <p align="justify">🐳 Using Docker to ensure consistent deployments across environments.</p>
   <p align="justify">🎨 Experience in UI/UX, responsive design and web accessibility.</p>
   <p align="justify">🗣️ Fluent in English and proactive in team communication.</p>
-  <br>
-  <h2>Projects</h2>
-    <h3>🐱 nya-store</h3>
-      <p>E-commerce built with Next.js, Redux Toolkit, Prisma and PostgreSQL.</p>
-    <br>
-    <h3>💸 calendar-money</h3>
-      <p>Cash-flow management web app built with TypeScript, React, Node.js, Express, and MongoDB.</p>
-    <br>
-    <h3>🧠 ai-face-detect</h3>
-      <p>Web app built using React in which a user can upload a image and the app will detect the faces on it.</p>
-  <br><br>
-  <h2>📬 Contact</h2>
-    <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/nady4">/nady4</a></li>
-    <li>👩🏻‍💻 GitHub: <a href="https://github.com/nady4">@nady4</a></li>
-    <li>💌 Email: <a href="mailto:nadyajerochim@gmail.com">nadyajerochim@gmail.com</a></li>
 </div>
