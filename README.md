@@ -11,7 +11,7 @@
   <br>
   <h2>Personal projects</h2>
   <a href="https://github.com/nady4/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=portfolio&theme=catppuccin_mocha" alt="Repo card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=portfolio&theme=aura_dark" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/nya-store">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=nya-store&theme=jolly" alt="Repo card">
@@ -28,7 +28,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Transistemas-ac&repo=app&theme=material-palenight" alt="Repo card">
   </a>
   <a href="https://github.com/Transistemas-ac/api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Transistemas-ac&repo=api&theme=aura_dark" alt="Repo card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Transistemas-ac&repo=api&theme=material-palenight" alt="Repo card">
   </a>
   <hr>
   <p align="justify">🛠️ Building frontend applications using TypeScript, TailwindCSS, React, Redux, React Query, GraphQL, Next.js and Astro.</p>
