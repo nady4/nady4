@@ -18,12 +18,14 @@
   <a href="https://github.com/nady4/ai-face-detect">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=ai-face-detect&theme=ambient_gradient" alt="Repo card">
   </a>
-  <a href="https://github.com/Transistemas-ac/app-ui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Transistemas-ac&repo=app-ui&theme=omni" alt="Repo card">
-  </a>
-  <br>
   <a href="https://github.com/nady4/portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=portfolio&theme=graywhite" alt="Repo card">
+  </a>
+  <a href="https://github.com/Transistemas-ac/app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Transistemas-ac&repo=app&theme=jolly" alt="Repo card">
+  </a>
+  <a href="https://github.com/Transistemas-ac/api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Transistemas-ac&repo=api&theme=material-palenight" alt="Repo card">
   </a>
   <hr>
   <p align="justify">🛠️ Building frontend applications using TypeScript, TailwindCSS, React, Redux, React Query, GraphQL, Next.js and Astro.</p>
