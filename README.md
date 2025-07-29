@@ -11,10 +11,10 @@
   <br>
   <h2>Personal projects</h2>
   <a href="https://github.com/nady4/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=portfolio&theme=aura_dark" alt="Repo card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=portfolio&theme=jolly" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/nya-store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=nya-store&theme=jolly" alt="Repo card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=nya-store&theme=neon" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/calendar-money">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=calendar-money&theme=merko" alt="Repo card">
