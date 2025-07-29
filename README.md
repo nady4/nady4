@@ -19,7 +19,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=ai-face-detect&theme=ambient_gradient" alt="Repo card">
   </a>
   <a href="https://github.com/Transistemas-ac/app-ui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Transistemas-ac&repo=app-ui&theme=jolly" alt="Repo card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Transistemas-ac&repo=app-ui&theme=omni" alt="Repo card">
   </a>
   <br>
   <a href="https://github.com/nady4/portfolio">
