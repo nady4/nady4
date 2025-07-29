@@ -9,6 +9,10 @@
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=nady4&layout=compact&theme=nightowl&hide=swift,csharp'/>
   </a>
   <br>
+  <h2>Personal projects</h2>
+  <a href="https://github.com/nady4/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=portfolio&theme=catppuccin_mocha" alt="Repo card">
+  </a>
   <a href="https://github.com/nady4/nya-store">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=nya-store&theme=jolly" alt="Repo card">
   </a>
@@ -18,14 +22,13 @@
   <a href="https://github.com/nady4/ai-face-detect">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=ai-face-detect&theme=ambient_gradient" alt="Repo card">
   </a>
-  <a href="https://github.com/nady4/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=portfolio&theme=graywhite" alt="Repo card">
-  </a>
+  <br>
+  <h2>Volunteering</h2>
   <a href="https://github.com/Transistemas-ac/app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Transistemas-ac&repo=app&theme=jolly" alt="Repo card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Transistemas-ac&repo=app&theme=material-palenight" alt="Repo card">
   </a>
   <a href="https://github.com/Transistemas-ac/api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Transistemas-ac&repo=api&theme=material-palenight" alt="Repo card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Transistemas-ac&repo=api&theme=aura_dark" alt="Repo card">
   </a>
   <hr>
   <p align="justify">🛠️ Building frontend applications using TypeScript, TailwindCSS, React, Redux, React Query, GraphQL, Next.js and Astro.</p>
