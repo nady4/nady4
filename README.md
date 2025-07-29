@@ -20,10 +20,10 @@
   <br>
   <h2>Volunteering</h2>
   <a href="https://github.com/Transistemas-ac/app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Transistemas-ac&repo=app&theme=material-palenight" alt="Repo card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Transistemas-ac&repo=app&theme=material-palenight&title_color=fe99ca&icon_color=ffffff&bg_color=1B1A1B" alt="Repo card">
   </a>
   <a href="https://github.com/Transistemas-ac/api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Transistemas-ac&repo=api&theme=material-palenight" alt="Repo card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Transistemas-ac&repo=api&theme=material-palenight&title_color=fe99ca&icon_color=ffffff&bg_color=1B1A1B" alt="Repo card">
   </a>
   <hr>
   <a href="https://github.com/nady4">
