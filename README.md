@@ -5,22 +5,18 @@
   <h3 align="center"><a href="https://nady4.com/">nady4.com</a></h3>
   <h3 align="center"><a href="mailto:dev@nady4.com">dev@nady4.com</a></h3>
   <hr>
-  <a href="https://github.com/nady4">
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=nady4&layout=compact&theme=nightowl&hide=swift,csharp'/>
-  </a>
-  <br>
   <h2>Personal projects</h2>
   <a href="https://github.com/nady4/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=portfolio&theme=jolly" alt="Repo card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=portfolio&theme=jolly&title_color=ffffff" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/nya-store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=nya-store&theme=neon" alt="Repo card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=nya-store&theme=neon&title_color=ffffff&icon_color=F44792" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/calendar-money">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=calendar-money&theme=merko" alt="Repo card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=calendar-money&theme=merko&title_color=ffffff" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/ai-face-detect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=ai-face-detect&theme=ambient_gradient" alt="Repo card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=ai-face-detect&theme=ambient_gradient&title_color=ffffff" alt="Repo card">
   </a>
   <br>
   <h2>Volunteering</h2>
@@ -29,6 +25,10 @@
   </a>
   <a href="https://github.com/Transistemas-ac/api">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Transistemas-ac&repo=api&theme=material-palenight" alt="Repo card">
+  </a>
+  <hr>
+  <a href="https://github.com/nady4">
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=nady4&layout=compact&theme=nightowl&hide=swift,csharp'/>
   </a>
   <hr>
   <p align="justify">🛠️ Building frontend applications using TypeScript, TailwindCSS, React, Redux, React Query, GraphQL, Next.js and Astro.</p>
