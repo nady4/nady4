@@ -40,37 +40,37 @@
   <br><br>
   <h2>📚 Notes</h2>
   <a href="https://github.com/nady4/data-structures">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=data-structures&theme=material-palenight&bg_color=1B1A1B" alt="Repo card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=data-structures&theme=calm_pink&bg_color=1B1A1B" alt="Repo card">
   </a>
-  <a href="https://github.com/nady4/testing>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=curso-python&theme=material-palenight&bg_color=1B1A1B" alt="Repo card">
-  </a>
-  <a href="https://github.com/nady4/curso-python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=curso-python&theme=material-palenight&bg_color=1B1A1B" alt="Repo card">
-  </a>
-  <a href="https://github.com/nady4/robots">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=robots&theme=material-palenight&bg_color=1B1A1B" alt="Repo card">
+  <a href="https://github.com/nady4/testing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=testing&theme=shades-of-purple&title_color=a095f3&bg_color=1B1A1B" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/react-rtk-crud">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=react-rtk-crud&theme=material-palenight&bg_color=1B1A1B" alt="Repo card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=react-rtk-crud&theme=holi&bg_color=14141a" alt="Repo card">
+  </a>
+  <a href="https://github.com/nady4/robots">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=robots&theme=algolia&title_color=2cde99&bg_color=14141a" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/graphql-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=graphql-server&theme=material-palenight&bg_color=1B1A1B" alt="Repo card">
-  </a>
-  <a href="https://github.com/nady4/next-notes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=next-notes&theme=material-palenight&bg_color=1B1A1B" alt="Repo card">
-  </a>
-  <a href="https://github.com/nady4/next-auth">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=next-auth&theme=material-palenight&bg_color=1B1A1B" alt="Repo card">
-  </a>
-  <a href="https://github.com/nady4/nextjs-rtk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=nextjs-rtk&theme=material-palenight&bg_color=1B1A1B" alt="Repo card">
-  </a>
-  <a href="https://github.com/nady4/next-actions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=robots&theme=material-palenight&bg_color=1B1A1B" alt="Repo card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=graphql-server&theme=jolly&bg_color=14141a" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/node-redis-cache">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=node-redis-cache&theme=material-palenight&bg_color=1B1A1B" alt="Repo card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=node-redis-cache&theme=material-palenight&icon_color=fe4236&title_color=fe4236&bg_color=14141a" alt="Repo card">
+  </a>
+  <a href="https://github.com/nady4/next-notes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=next-notes&theme=dark&icon_color=ffffff&text_color=ffffff&bg_color=000101" alt="Repo card">
+  </a>
+  <a href="https://github.com/nady4/next-auth">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=next-auth&theme=dark&icon_color=ffffff&text_color=ffffff&bg_color=000101" alt="Repo card">
+  </a>
+  <a href="https://github.com/nady4/next-actions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=next-actions&theme=dark&icon_color=ffffff&text_color=ffffff&bg_color=000101" alt="Repo card">
+  </a>
+  <a href="https://github.com/nady4/nextjs-rtk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=nextjs-rtk&theme=dark&icon_color=ffffff&text_color=ffffff&bg_color=000101" alt="Repo card">
+  </a>
+  <a href="https://github.com/nady4/curso-python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=curso-python&theme=cobalt2&bg_color=1B1A1B" alt="Repo card">
   </a>
   <hr>
   <a href="https://github.com/nady4">
