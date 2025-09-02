@@ -50,7 +50,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=im-busy&theme=github_dark&title_color=7db242&icon_color=7db242" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/the-end-is-near">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=the-end-is-near&theme=chartreuse-dark&title_color=ffffff&icon_color=ffffff" alt="Repo card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=the-end-is-near&theme=chartreuse-dark&title_color=ffffff&icon_color=fffffe" alt="Repo card">
   </a>
   <br><br>
   <h2>📚 Notes</h2>
