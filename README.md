@@ -15,8 +15,14 @@
   <a href="https://github.com/nady4/calendar-money">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=calendar-money&theme=merko&title_color=ffffff" alt="Repo card">
   </a>
+  <a href="https://github.com/nady4/calendar-money-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=calendar-money-api&theme=merko&title_color=ffffff" alt="Repo card">
+  </a>
   <a href="https://github.com/nady4/ai-face-detect">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=ai-face-detect&theme=ambient_gradient&title_color=ffffff" alt="Repo card">
+  </a>
+  <a href="https://github.com/nady4/ai-face-detect-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=ai-face-detect-api&theme=ambient_gradient&title_color=ffffff" alt="Repo card">
   </a>
   <br><br>
   <h2>💖 Volunteering</h2>
