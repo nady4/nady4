@@ -79,7 +79,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=graphql-server&theme=jolly&icon_color=f6099e&title_color=f6099e&&bg_color=14141a" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/tanstack-react-query">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=tanstack-react-query&theme=algolia&title_color=2cde99&bg_color=14141a" alt="Repo card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=tanstack-react-query&theme=algolia&title_color=2cde99&bg_color=14141b" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/react-rtk-crud">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=react-rtk-crud&theme=holi&icon_color=774abd&bg_color=14141a" alt="Repo card">
