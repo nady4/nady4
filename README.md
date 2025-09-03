@@ -55,7 +55,7 @@
   <br><br>
   <h2>📚 Notes</h2>
   <a href="https://github.com/nady4/data-structures">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=data-structures&theme=calm_pink&bg_color=1B1A1B" alt="Repo card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=data-structures&theme=dracula&bg_color=1B1A1B&icon_color=dd6286" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/testing">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nady4&repo=testing&theme=shades-of-purple&title_color=a095f3&bg_color=1B1A1B" alt="Repo card">
