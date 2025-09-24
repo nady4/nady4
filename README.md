@@ -36,7 +36,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Transistemas-ac&repo=landing&theme=material-palenight&title_color=fe99ca&icon_color=ffffff&bg_color=1B1A1B" alt="Repo card">
   </a>
   <a href="https://github.com/Transistemas-ac/bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Transistemas-ac&repo=bot&theme=material-palenight&title_color=fe99ca&icon_color=ffffff&bg_color=1B1A1B" alt="Repo card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Transistemas-ac&repo=bot&theme=material-palenight&title_color=fe99ca&icon_color=ffffff&bg_color=1B1A1C" alt="Repo card">
   </a>
   <br><br>
   <h2>👩🏻‍💻 Open-source</h2>
