@@ -11,7 +11,7 @@
   </a>
   <br>
   <a href="https://github.com/nady4/nyady">
-    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=nyady&theme=moltack&title_color=2D2416&icon_color=ECBD3A" alt="Repo card">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=nyady&theme=moltack&title_color=2D2416&icon_color=ECBD3B" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/nya-store">
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=nya-store&theme=neon&title_color=ffffff&icon_color=F44792" alt="Repo card">
