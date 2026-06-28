@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/nady4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="33px"/></a>
   <br><br>
   <h2>🚀 Portfolio</h2>
-  <a href="https://github.com/nady4/portfolio">
-    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=portfolio&theme=jolly&title_color=fffffe" alt="Repo card">
-  </a>
   <a href="https://github.com/nady4/nyady">
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=nyady&theme=moltack&title_color=2D2416&icon_color=ECBD3A" alt="Repo card">
   </a>
@@ -16,7 +13,13 @@
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=nya-store&theme=neon&title_color=ffffff&icon_color=F44792" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/calendar-money">
-    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=calendar-money&theme=merko&title_color=ffffff" alt="Repo card">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=calendar-money&theme=merko&title_color=fffffe" alt="Repo card">
+  </a>
+  <a href="https://github.com/nady4/calendar-money-api">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=calendar-money-api&theme=merko&title_color=fffffe" alt="Repo card">
+  </a>
+  <a href="https://github.com/nady4/portfolio">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=portfolio&theme=jolly&title_color=fffffe" alt="Repo card">
   </a>
   <br><br>
   <h2>💖 Volunteering</h2>
