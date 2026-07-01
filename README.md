@@ -17,10 +17,10 @@
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=nya-store&theme=neon&title_color=ffffff&icon_color=F44792" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/calendar-money">
-    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=calendar-money&theme=merko&title_color=fffffe" alt="Repo card">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=calendar-money&theme=merko&title_color=fffffc" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/calendar-money-api">
-    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=calendar-money-api&theme=merko&title_color=fffffd" alt="Repo card">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=calendar-money-api&theme=merko&title_color=fffffc" alt="Repo card">
   </a>
   <br><br>
   <h2>💖 Volunteering</h2>
