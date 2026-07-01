@@ -7,7 +7,7 @@
   <br><br>
   <h2>🚀 Portfolio</h2>
   <a href="https://github.com/nady4/portfolio">
-    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=portfolio&theme=jolly&title_color=fffffe" alt="Repo card">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=portfolio&theme=jolly&title_color=fffffd" alt="Repo card">
   </a>
   <br>
   <a href="https://github.com/nady4/nyady">
