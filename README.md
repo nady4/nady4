@@ -56,6 +56,9 @@
   <a href="https://github.com/nady4/the-end-is-near">
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=the-end-is-near&theme=chartreuse-dark&title_color=ffffff&icon_color=fffffe" alt="Repo card">
   </a>
+  <a href="https://github.com/nady4/series-tracker">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=series-tracker&theme=holi&title_color=ffffff&icon_color=EE80B4" alt="Repo card">
+  </a>
   <br><br>
   <h2>📚 Notes</h2>
   <a href="https://github.com/nady4/data-structures">
