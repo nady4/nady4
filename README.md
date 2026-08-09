@@ -33,7 +33,7 @@
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=octonotion&theme=material-palenight&title_color=fe605e&icon_color=fe605e" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/series-tracker">
-    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=series-tracker&theme=holi&title_color=ffffff&icon_color=EE80B4" alt="Repo card">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=series-tracker&theme=holi&title_color=2ce3be&icon_color=EE80B4" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/im-busy">
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=im-busy&theme=github_dark&title_color=7db242&icon_color=7db242&bg_color=262C33" alt="Repo card">
