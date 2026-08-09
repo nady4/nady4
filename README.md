@@ -5,22 +5,22 @@
     <h1>Nadya Jerochim</h1>
   <a href="https://www.linkedin.com/in/nady4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="33px"/></a>
   <br><br>
-  <h2>🚀 Portfolio</h2>
+  <h2>👩🏻‍💻 Portfolio</h2>
   <a href="https://github.com/nady4/portfolio">
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=portfolio&theme=jolly&title_color=fffffd" alt="Repo card">
   </a>
   <br>
-  <a href="https://github.com/nady4/nyady">
-    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=nyady&theme=moltack&title_color=2D2416&icon_color=ECBD3B" alt="Repo card">
-  </a>
-  <a href="https://github.com/nady4/nya-store">
-    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=nya-store&theme=neon&title_color=ffffff&icon_color=F44792" alt="Repo card">
-  </a>
   <a href="https://github.com/nady4/calendar-money">
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=calendar-money&theme=merko&title_color=fffffc" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/calendar-money-api">
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=calendar-money-api&theme=merko&title_color=fffffc" alt="Repo card">
+  </a>
+  <a href="https://github.com/nady4/nyady">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=nyady&theme=moltack&title_color=2D2416&icon_color=ECBD3B" alt="Repo card">
+  </a>
+  <a href="https://github.com/nady4/nya-store">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=nya-store&theme=neon&title_color=ffffff&icon_color=F44792" alt="Repo card">
   </a>
   <br><br>
   <h2>💖 Volunteering</h2>
@@ -43,7 +43,7 @@
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=Transistemas-ac&repo=ds-invite&theme=material-palenight&title_color=fe99ca&icon_color=ffffff&bg_color=1B1A1C" alt="Repo card">
   </a>
   <br><br>
-  <h2>👩🏻‍💻 Open-source</h2>
+  <h2>🚀 Side Quests</h2>
   <a href="https://github.com/nady4/octonotion">
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=octonotion&theme=github_dark&title_color=fe605e&icon_color=fe605e" alt="Repo card">
   </a>
