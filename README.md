@@ -5,7 +5,6 @@
     <h1>Nadya Jerochim</h1>
   <a href="https://www.linkedin.com/in/nady4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="33px"/></a>
   <br><br>
-  <h2>👩🏻‍💻 Portfolio</h2>
   <a href="https://github.com/nady4/portfolio">
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=portfolio&theme=jolly&title_color=fffffd" alt="Repo card">
   </a>
