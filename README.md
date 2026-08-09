@@ -106,12 +106,3 @@
   <a href="https://github.com/nady4">
     <img src='https://github-readme-stats-ivory-ten-45.vercel.app/api/top-langs/?username=nady4&layout=compact&theme=nightowl&hide=swift,csharp'/>
   </a>
-  <hr>
-  <p align="justify">🛠️ Building frontend applications using TypeScript, TailwindCSS, React, Redux, React Query, GraphQL, Next.js and Astro.</p>
-  <p align="justify">⚙️ Developing and maintaining backend services with Node.js and Next.js.</p>
-  <p align="justify">🗃️ Managing SQL and NoSQL databases: PostgreSQL, MySQL, SQLite, Redis and MongoDB.</p>
-  <p align="justify">🧪 Testing with Vitest, Jest, Testing Library, Cypress and Playwright.</p>
-  <p align="justify">🐳 Using Docker to ensure consistent deployments across environments.</p>
-  <p align="justify">🎨 Knowledge of UI/UX, responsive design and web accessibility.</p>
-  <p align="justify">🗣️ Fluent in English and proactive in team communication.</p>
-</div>
