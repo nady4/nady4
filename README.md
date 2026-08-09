@@ -59,6 +59,9 @@
   <a href="https://github.com/nady4/im-busy">
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=im-busy&theme=github_dark&title_color=7db242&icon_color=7db242" alt="Repo card">
   </a>
+  <a href="https://github.com/nady4/mementum">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=mementum&theme=jolly&title_color=fffffd&icon_color=2ce3be" alt="Repo card">
+  </a>
   <a href="https://github.com/nady4/ai-api-tester">
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=ai-api-tester&theme=github_dark&title_color=ADD8E6&icon_color=ADD8E7" alt="Repo card">
   </a>
