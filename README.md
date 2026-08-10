@@ -49,17 +49,11 @@
   </a>
   <br><br>
   <h2>💖 Volunteering</h2>
-  <a href="https://github.com/Transistemas-ac/app">
-    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=Transistemas-ac&repo=app&theme=material-palenight&title_color=fe99ca&icon_color=ffffff&bg_color=1B1A1B" alt="Repo card">
-  </a>
-  <a href="https://github.com/Transistemas-ac/api">
-    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=Transistemas-ac&repo=api&theme=material-palenight&title_color=fe99ca&icon_color=ffffff&bg_color=1B1A1B" alt="Repo card">
-  </a>
   <a href="https://github.com/Transistemas-ac/landing">
-    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=Transistemas-ac&repo=landing&theme=material-palenight&title_color=fe99ca&icon_color=ffffff&bg_color=1B1A1B" alt="Repo card">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=Transistemas-ac&repo=landing&theme=material-palenight&title_color=fe99ca&icon_color=fffffe&bg_color=1B1A1B" alt="Repo card">
   </a>
-  <a href="https://github.com/Transistemas-ac/bot">
-    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=Transistemas-ac&repo=bot&theme=material-palenight&title_color=fe99ca&icon_color=ffffff&bg_color=1B1A1C" alt="Repo card">
+  <a href="https://github.com/Transistemas-ac/classroom">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=Transistemas-ac&repo=classroom&theme=material-palenight&title_color=fe99ca&icon_color=ffffff&bg_color=1B1A1B" alt="Repo card">
   </a>
   <a href="https://github.com/Transistemas-ac/dns-monitor">
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=Transistemas-ac&repo=dns-monitor&theme=material-palenight&title_color=fe99ca&icon_color=ffffff&bg_color=1B1A1C" alt="Repo card">
@@ -67,6 +61,9 @@
   <a href="https://github.com/Transistemas-ac/ds-invite">
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=Transistemas-ac&repo=ds-invite&theme=material-palenight&title_color=fe99ca&icon_color=ffffff&bg_color=1B1A1C" alt="Repo card">
   </a>
+  </a>
+  <a href="https://github.com/Transistemas-ac/bot">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=Transistemas-ac&repo=bot&theme=material-palenight&title_color=fe99ca&icon_color=ffffff&bg_color=1B1A1C" alt="Repo card">
   <br><br>
   <h2>📚 Notes</h2>
   <a href="https://github.com/nady4/data-structures">
