@@ -10,22 +10,22 @@
   </a>
   <br>
   <a href="https://github.com/nady4/discorp">
-    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=discorp&theme=github_dark&title_color=ffffff&icon_color=13bdd2" alt="Repo card">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=discorp&theme=github_dark&title_color=fffffe&icon_color=13bdd1" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/sybil">
-    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=sybil&theme=dark&bg_color=000101&title_color=fffffe&icon_color=774abd" alt="Repo card">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=sybil&theme=dark&bg_color=000101&title_color=fffffc&icon_color=774abd" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/calendar-money">
-    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=calendar-money&theme=merko&title_color=fffffb" alt="Repo card">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=calendar-money&theme=merko&title_color=ffffff" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/calendar-money-api">
-    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=calendar-money-api&theme=merko&title_color=fffffb" alt="Repo card">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=calendar-money-api&theme=merko&title_color=ffffff" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/nyady">
-    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=nyady&theme=moltack&title_color=2D2416&icon_color=ECBD3A" alt="Repo card">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=nyady&theme=moltack&title_color=2D2416&icon_color=ECBD3B" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/nya-store">
-    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=nya-store&theme=neon&title_color=ffffff&icon_color=F44791" alt="Repo card">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=nya-store&theme=neon&title_color=ffffff&icon_color=F44792" alt="Repo card">
   </a>
   <br><br>
   <h2>🚀 Side Quests</h2>
