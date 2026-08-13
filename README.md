@@ -1,9 +1,5 @@
 <div class="text" align="center">
-  <a href="https://nady4.com">
-    <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="33px">
-  </a>
-    <h1>Nadya Jerochim</h1>
-  <a href="https://www.linkedin.com/in/nady4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="33px"/></a>
+    <a href="https://www.linkedin.com/in/nady4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="33px"/></a>
   <br><br>
   <a href="https://github.com/nady4/portfolio">
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=portfolio&theme=jolly&title_color=fffffc" alt="Repo card">
@@ -61,9 +57,9 @@
   <a href="https://github.com/Transistemas-ac/ds-invite">
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=Transistemas-ac&repo=ds-invite&theme=material-palenight&title_color=fe99ca&icon_color=ffffff&bg_color=1B1A1C" alt="Repo card">
   </a>
-  </a>
   <a href="https://github.com/Transistemas-ac/bot">
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=Transistemas-ac&repo=bot&theme=material-palenight&title_color=fe99ca&icon_color=ffffff&bg_color=1B1A1C" alt="Repo card">
+  </a>
   <br><br>
   <h2>📚 Notes</h2>
   <a href="https://github.com/nady4/data-structures">
@@ -103,3 +99,8 @@
   <a href="https://github.com/nady4">
     <img src='https://github-readme-stats-ivory-ten-45.vercel.app/api/top-langs/?username=nady4&layout=compact&theme=nightowl&hide=swift,csharp'/>
   </a>
+  <br><br>
+  <a href="https://nady4.com">
+    <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="33px">
+  </a>
+  <div>
