@@ -12,10 +12,10 @@
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=sybil&theme=dark&bg_color=000101&title_color=fffffc&icon_color=774abd" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/calendar-money">
-    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=calendar-money&theme=merko&title_color=fffffe&icon_color=5F8B56" alt="Repo card">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=calendar-money&theme=merko&title_color=fffffe&icon_color=3A965C" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/calendar-money-api">
-    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=calendar-money-api&theme=merko&title_color=fffffe&icon_color=5F8B56" alt="Repo card">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=calendar-money-api&theme=merko&title_color=fffffe&icon_color=3A965C" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/nyady">
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=nyady&theme=moltack&title_color=2D2416&icon_color=ECBD3B" alt="Repo card">
