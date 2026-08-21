@@ -5,12 +5,6 @@
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=portfolio&theme=jolly&title_color=ffffff" alt="Repo card">
   </a>
   <br>
-  <a href="https://github.com/nady4/discorp">
-    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=discorp&theme=github_dark&title_color=fffffe&icon_color=13bdd1" alt="Repo card">
-  </a>
-  <a href="https://github.com/nady4/sybil">
-    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=sybil&theme=dark&bg_color=000101&title_color=fffffc&icon_color=774abd" alt="Repo card">
-  </a>
   <a href="https://github.com/nady4/calendar-money">
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=calendar-money&theme=merko&title_color=fffffe&icon_color=3A965C" alt="Repo card">
   </a>
@@ -23,8 +17,17 @@
   <a href="https://github.com/nady4/nya-store">
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=nya-store&theme=neon&title_color=ffffff&icon_color=F44792" alt="Repo card">
   </a>
+  <a href="https://github.com/Transistemas-ac/dns-monitor">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=Transistemas-ac&repo=dns-monitor&theme=material-palenight&title_color=fe99ca&icon_color=fffffd&bg_color=1B1A1C" alt="Repo card">
+  </a>
   <br><br>
   <h2>🚀 Side Quests</h2>
+  <a href="https://github.com/nady4/discorp">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=discorp&theme=github_dark&title_color=fffffe&icon_color=13bdd1" alt="Repo card">
+  </a>
+  <a href="https://github.com/nady4/sybil">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=sybil&theme=dark&bg_color=000101&title_color=fffffc&icon_color=774abd" alt="Repo card">
+  </a>
   <a href="https://github.com/nady4/octonotion">
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=octonotion&theme=material-palenight&title_color=fe605e&icon_color=fe605e" alt="Repo card">
   </a>
@@ -52,7 +55,7 @@
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=Transistemas-ac&repo=classroom&theme=material-palenight&title_color=fe99ca&icon_color=ffffff&bg_color=1B1A1B" alt="Repo card">
   </a>
   <a href="https://github.com/Transistemas-ac/dns-monitor">
-    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=Transistemas-ac&repo=dns-monitor&theme=material-palenight&title_color=fe99ca&icon_color=fffffe&bg_color=1B1A1C" alt="Repo card">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=Transistemas-ac&repo=dns-monitor&theme=material-palenight&title_color=fe99ca&icon_color=fffffd&bg_color=1B1A1C" alt="Repo card">
   </a>
   <a href="https://github.com/Transistemas-ac/ds-invite">
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=Transistemas-ac&repo=ds-invite&theme=material-palenight&title_color=fe99ca&icon_color=ffffff&bg_color=1B1A1C" alt="Repo card">
