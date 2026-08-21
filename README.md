@@ -27,17 +27,17 @@
   <a href="https://github.com/nady4/sybil">
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=sybil&theme=dark&bg_color=000101&title_color=fffffc&icon_color=774abd" alt="Repo card">
   </a>
-  <a href="https://github.com/nady4/octonotion">
-    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=octonotion&theme=material-palenight&title_color=fe605e&icon_color=fe605e" alt="Repo card">
-  </a>
   <a href="https://github.com/nady4/series-tracker">
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=series-tracker&theme=holi&title_color=2ce3be&icon_color=EE80B5" alt="Repo card">
   </a>
-  <a href="https://github.com/nady4/im-busy">
-    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=im-busy&theme=github_dark&title_color=7db242&icon_color=7db242&bg_color=262C34" alt="Repo card">
-  </a>
   <a href="https://github.com/nady4/mementum">
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=mementum&theme=jolly&title_color=a095f3&icon_color=2ce3be" alt="Repo card">
+  </a>
+  <a href="https://github.com/nady4/octonotion">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=octonotion&theme=material-palenight&title_color=fe605e&icon_color=fe605e" alt="Repo card">
+  </a>
+  <a href="https://github.com/nady4/im-busy">
+    <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=im-busy&theme=github_dark&title_color=7db242&icon_color=7db242&bg_color=262C34" alt="Repo card">
   </a>
   <a href="https://github.com/nady4/ai-api-tester">
     <img src="https://github-readme-stats-ivory-ten-45.vercel.app/api/pin/?username=nady4&repo=ai-api-tester&theme=github_dark&title_color=ADD8E6&icon_color=ADD8E7" alt="Repo card">
